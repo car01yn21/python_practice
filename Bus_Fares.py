@@ -16,5 +16,4 @@ if age >= 60:
     bus_fare = bus_fare -1
     fare_type = "senior"
 
-print("The " 
-      + fare_type + " bus fare is $" + str(bus_fare) + ".")
+print("The " + fare_type + " bus fare is $" + str(bus_fare) + ".")

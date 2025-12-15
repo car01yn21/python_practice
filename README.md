@@ -23,7 +23,7 @@ The exercises in this repository cover fundamental Python topics including:
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/python-basics-practice.git
+    git clone https://github.com/car01yn21/python-basics-practice.git
     ```
 2. Navigate to the repository folder:
     ```bash
